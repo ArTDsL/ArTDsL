@@ -1,16 +1,20 @@
-### Hi there 👋
+## :wave::smile: Olá, Hello, ¡Hola!, やあ, Привет!
 
-<!--
-**ArTDsL/ArTDsL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Arthur**, also known by my nickname **ArTh**, nice to have you here :smile:!
 
-Here are some ideas to get you started:
+### 💾 My Statistics
+[![ArTDsL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArTDsL&theme=tokyonight&hide=stars)](https://github.com/ArTDsL/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :computer: Projects that i'm curretly supporting (Open Source)
+- [PAYPAL-PHP](https://github.com/ArTDsL/PAYPAL-PHP) - **Work in Progress**
+- [ARTDSL-ICL-SAMP](https://github.com/ArTDsL/ARTDSL-ICL-SAMP) - **Work in Progress**
+- [BIRLSAMP](https://github.com/ArTDsL/BIRLSAMP) - [Beta](https://github.com/ArTDsL/BIRLSAMP/releases/tag/Beta) Stage
+- [LocaliZAZ.js](https://github.com/ArTDsL/LocaliZAZ.js) - Last Version [2.0.0.0](https://github.com/ArTDsL/LocaliZAZ.js/releases/tag/2.0.0.0).
+
+---
+
+### :gift_heart: Projects that i'm contributing:
+- [OPEN.MP](https://github.com/openmultiplayer/web/)
+
