@@ -3,7 +3,9 @@
 I'm **Arthur**, also known by my nickname **ArTh**, nice to have you here :smile:!
 
 ### 💾 My Statistics
-[![ArTDsL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArTDsL&theme=tokyonight&hide=stars)](https://github.com/ArTDsL/github-readme-stats)
+[![ArTDsL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArTDsL&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/ArTDsL/github-readme-stats)
+
+
 
 ---
 
