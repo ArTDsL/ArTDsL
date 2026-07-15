@@ -7,6 +7,7 @@ I'm **Arthur**, also known by my nickname **ArTh**, 29y, Computer Science Bachel
 ### :computer: Projects that i'm curretly supporting (Open Source)
 
 **RELEASED:**
+- [InternetExoExplorer](https://github.com/ArTDsL/InternetExoExplorer) - Current Version: [1.0.0.0-rc](https://github.com/ArTDsL/InternetExoExplorer/releases/tag/1.0.0.0-rc).
 - [ARTTCB](https://github.com/ArTDsL/ARTTCB) - Current Version: [1.2.1.0-d](https://github.com/ArTDsL/ARTTCB/releases/tag/1.2.1.0-d).
 - [PHPRADART](https://github.com/ArTDsL/PHPRADART) - Current Version: [1.0.0-rc](https://github.com/ArTDsL/PHPRADART/releases/tag/1.0.0-RC).
 - [Counter-Strike Bomb (C-4) Prop in Arduino](https://github.com/ArTDsL/CSPROPBOMB) - Current Version: [1.0](https://github.com/ArTDsL/CSPROPBOMB/releases/tag/1.0) ([Build Video](https://www.youtube.com/watch?v=yy5OT9nvQkc)).
